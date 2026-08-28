@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="520" viewBox="0 0 1200 520"
+     role="img" aria-labelledby="title desc">
+  <title id="title">xiaojinlucky — research systems and AI-assisted creation</title>
+  <desc id="desc">A Palm-inspired personal profile hero with xiaojinlucky's illustrated avatar and a calm research-and-creation identity.</desc>
+
+  <defs>
+    <clipPath id="subject-area">
+      <rect x="720" y="0" width="480" height="520"/>
+    </clipPath>
+  </defs>
+
+  <!-- Palm palette: paper cream, dark brown, deep olive, amber, muted olive. -->
+  <rect width="1200" height="520" rx="34" fill="#F0EFEB"/>
+  <path d="M0 448H708" stroke="#D8D1C5" stroke-width="2"/>
+  <path d="M704 0V520" stroke="#D8D1C5" stroke-width="2"/>
+
+  <g id="identity" transform="translate(72 0)"
+     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', Helvetica, Arial, sans-serif">
+    <text x="0" y="74" fill="#43593B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="17" letter-spacing="2.6">RESEARCH · KNOWLEDGE · CREATION</text>
+    <rect x="0" y="104" width="58" height="6" rx="3" fill="#D4A017"/>
+
+    <text x="0" y="196" fill="#58402E" font-size="72" font-weight="700" letter-spacing="-2.2">xiaojinlucky</text>
+    <text x="4" y="252" fill="#43593B" font-size="29" font-weight="650">Research systems</text>
+    <text x="4" y="289" fill="#43593B" font-size="29" font-weight="650">and AI-assisted creation.</text>
+    <text x="4" y="342" fill="#58402E" opacity="0.78" font-size="23">Student at Sun Yat-sen University</text>
+
+    <path d="M0 390H558" stroke="#ACAD79" stroke-width="2"/>
+    <circle cx="0" cy="390" r="6" fill="#D4A017"/>
+    <text x="0" y="431" fill="#58402E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="21" letter-spacing="0.5">evidence → inspect → build → share</text>
+    <text x="0" y="478" fill="#77835A" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="17" letter-spacing="1.5">CLEAR · AUDITABLE · REUSABLE</text>
+  </g>
+
+  <g id="avatar-stage">
+    <path d="M760 0H1200V520H752C779 493 793 461 793 420C793 373 765 349 744 315C724 283 718 241 736 201C754 160 780 127 780 88C780 53 773 26 760 0Z"
+          fill="#43593B"/>
+    <circle cx="1036" cy="102" r="82" fill="#D4A017"/>
+    <circle cx="822" cy="433" r="132" fill="#ACAD79" opacity="0.42"/>
+    <path d="M784 62C850 26 908 23 968 42" fill="none" stroke="#F2D17E" stroke-width="3" opacity="0.82"/>
+    <path d="M781 78C846 47 901 45 955 58" fill="none" stroke="#F2D17E" stroke-width="2" opacity="0.56"/>
+    <path d="M1088 394C1122 363 1145 326 1156 282" fill="none" stroke="#77835A" stroke-width="3" opacity="0.8"/>
+    <path d="M1110 402C1142 382 1166 354 1182 320" fill="none" stroke="#77835A" stroke-width="2" opacity="0.55"/>
+    <image href="hero-subject.png" x="704" y="-8" width="540" height="560"
+           preserveAspectRatio="xMidYMax meet" clip-path="url(#subject-area)"/>
+  </g>
+</svg>
