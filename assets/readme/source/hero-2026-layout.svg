@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="600" viewBox="0 0 1800 600" role="img" aria-labelledby="title desc">
+  <title id="title">xiaojinlucky — Research, tools and stories</title>
+  <desc id="desc">The creator's illustrated research workbench in cream, olive and warm ink. Editable typography over an original character scene.</desc>
+  <image x="0" y="0" width="1800" height="600" preserveAspectRatio="xMidYMid slice" xlink:href="hero-scene.png"/>
+  <g id="identity" fill="#2E271C">
+    <text x="90" y="180" font-family="Consolas, monospace" font-size="24" letter-spacing="3" fill="#6B683B">RESEARCH / KNOWLEDGE / CREATION</text>
+    <text x="84" y="292" font-family="Georgia, serif" font-size="104" font-weight="bold" letter-spacing="-3">xiaojinlucky</text>
+    <path d="M90 333 H176" stroke="#6B683B" stroke-width="5"/>
+    <text x="90" y="399" font-family="Segoe UI, sans-serif" font-size="38">Research, tools &amp; stories.</text>
+    <text x="90" y="451" font-family="Segoe UI, sans-serif" font-size="26" fill="#6B683B">From questions to things that work.</text>
+  </g>
+</svg>
