@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.png" width="100%" alt="xiaojinlucky · Research, tools & stories. A personal research workbench, illustrated in warm cream and olive green.">
+  <img src="./assets/readme/hero.png" width="100%" alt="xiaojinlucky · Research, tools & stories">
 </p>
 
 # Hi, I'm xiaojinlucky
@@ -29,16 +29,6 @@ I study at Sun Yat-sen University and build practical workflows for research, kn
 
 **知识与创作**
 
-把积累的材料整理成清楚的文章、图解与可复用资产。也在持续完善「做科研的Meta师兄」的视觉表达。
-
-## 同一个师兄，不同的工作现场
-
-<p>
-  <img src="./assets/readme/literature.webp" width="32%" alt="文献精读：在图书馆比较论文。">
-  <img src="./assets/readme/explain.webp" width="32%" alt="方法讲解：在组会白板前解释问题。">
-  <img src="./assets/readme/reflect.webp" width="32%" alt="科研日常：坐在校园台阶上整理思路。">
-</p>
-
-米色毛衣、橄榄绿裤子、一只保温杯。画面会换，人物和表达保持一致。
+分享文献阅读、数据分析和科研工具的使用经验。
 
 欢迎在对应项目的 Issues 里交流具体问题、使用体验和改进建议。
